@@ -1,7 +1,5 @@
 ---
-using: site.github
-title:
- 
+title: Useful Links for Destiny 2
 ---
 # Useful Links for Destiny 2
 

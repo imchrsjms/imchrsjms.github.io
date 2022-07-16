@@ -1,5 +1,6 @@
 ---
 title: Useful Links for Destiny 2
+layout: post
 ---
 # Useful Links for Destiny 2
 
